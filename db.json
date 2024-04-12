@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id":1,
+      "name":"Tohira",
+      "surname":"Furmol",
+      "phone":123546987,
+      "iscap":"false"
+    },
+    {
+      "id": 2,
+      "name": "Zohira",
+      "surname": "Furmol",
+      "phone": 123546987,
+      "iscap": "false"
+    },
+    {
+      "id": 3,
+      "name": "Ozar",
+      "surname": "Furmol",
+      "phone": 123546987,
+      "iscap": "false"
+    },
+    {
+      "id": 4,
+      "name": "Farishta",
+      "phone": 123546987,
+      "surname": "Jon",
+      "iscap": "false"
+    },
+    {
+      "id": 5,
+      "name": "madina",
+      "surname": "jdncksj",
+      "phone": 123546987,
+      "iscap": "false"
+    }
+  ]
+}
