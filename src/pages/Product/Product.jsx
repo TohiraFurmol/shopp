@@ -35,7 +35,7 @@ const Product = () => {
 
   return (
     <div className='flex ml-[50px]'>
-      <FormControl fullWidth>
+      <FormControl fullWidth sx={{width:"300px",marginTop:"80px", height:"10vh",marginLeft:"-20px"}}>
         <InputLabel id="demo-simple-select-label">category</InputLabel>
         <Select
           labelId="demo-simple-select-label"
@@ -50,7 +50,7 @@ const Product = () => {
           })}
         </Select>
       </FormControl>
-      <div className='flex flex-wrap items-start text-[#000] dark:text-[#fff] justify-start gap-[100px] px-[150px] mt-[100px]'>
+      <div className='flex flex-wrap items-start text-[#000] dark:text-[#fff] justify-start gap-[100px] px-[150px] mt-[100px] pb-[32px]'>
         {
           Product?.map((elem) => {
             return (

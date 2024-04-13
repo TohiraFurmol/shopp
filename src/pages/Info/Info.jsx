@@ -21,7 +21,7 @@ const Info = () => {
     },[id])
 
   return (
-      <div className='flex px-[30px] m-auto'>
+      <div className='flex px-[30px] m-auto pb-[145px]'>
           <div className='mt-[150px]'>
               <img src={obj.avatar} alt="" />
           </div>
